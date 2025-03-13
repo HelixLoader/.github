@@ -1,7 +1,7 @@
-# What is Helix?
 > [!WARNING]
 > Helix is currently under heavy development, and is not ready for production use.
 
+# What is Helix?
 Helix is a new modloader focused on performance and flexibility. Our goal is to provide a stable modding platform without compromises.
 
 # How do I use Helix?
