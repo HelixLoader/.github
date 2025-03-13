@@ -34,4 +34,4 @@ The process is as straight-forward as possible!
 # How can I help?
 If you are a user, the best thing you can do is to spread the word! Talk about Helix with friends or in communities you are a part of, we'd greatly appreciate that!
 
-If you are a developer, you can look at the [Helix Contribution Manual](https://github.com/HelixLoader/helix-conventions/contributing/manual.md) and see if there are any tasks you'd like to work on in our [Projects](https://github.com/HelixLoader/projects) tab.
+If you are a developer, you can look at the [Helix Contribution Manual](https://github.com/HelixLoader/helix-conventions/contributing/manual.md) and see if there are any tasks you'd like to work on in our [Projects](https://github.com/orgs/HelixLoader/projects) tab.
